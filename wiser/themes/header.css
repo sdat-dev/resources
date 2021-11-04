@@ -9,7 +9,7 @@
 #navbar {
     margin: 0;
     border: none;
-    background-color: #04009A;
+    background-color: #191A19;
     color: white;
     border-radius: 0;
 }
@@ -48,7 +48,7 @@
 }
 
 #navbar .search-block-form {
-    background-color: #04009A;
+    background-color: #191A19;
     margin-left: -30px;
     margin-right: -30px;
     padding: 10px 30px;
@@ -63,14 +63,14 @@
     width: calc(100% - 125px);
     padding: .5em;
     margin-right: .5em;
-    color: #04009A;
+    color: #191A19;
     border: none;
     font-size: 1.8em;
 }
 
 #navbar .search-block-form input.headerSearchBtn {
     background-color: #EEB211;
-    color: #04009A;
+    color: #191A19;
     border: none;
     font-family: PublicSans;
     text-transform: none;
@@ -103,7 +103,7 @@ body.drawer-open #navbar .region-mobile-navigation.drawer-nav {
     width: 100vw;
 }
 #mobile-nav-holder {
-    background-color: #04009A;
+    background-color: #191A19;
     color: white;
     width: 88vw;
     height: 100vh;
@@ -124,7 +124,7 @@ body.drawer-open #navbar .region-mobile-navigation.drawer-nav {
     z-index: 1000;
     font-size: 2em;
     padding: 8px 16px;
-    background-color: #04009A;
+    background-color: #191A19;
 }
 
 #mobile-nav-holder .mobile-nav-toplink {
@@ -132,14 +132,14 @@ body.drawer-open #navbar .region-mobile-navigation.drawer-nav {
     grid-template-columns: 1fr auto;
     padding: 0;
     margin: 0;
-    background-color: #04009A;
+    background-color: #191A19;
     border-top: 1px solid #888;
     font-weight: bold;
 }
 
 #mobile-nav-holder .mobile-nav-toplink a:hover {
     background-color: #EEB211;
-    color: #04009A;
+    color: #191A19;
     font-weight: bold;
 }
 
@@ -195,7 +195,7 @@ body.drawer-open #navbar .region-mobile-navigation.drawer-nav {
 #mobile-nav-holder ul ul a:hover {
     display: block;
     background-color: #EEB211;
-    color: #04009A;
+    color: #191A19;
 }
 
 #mobile-nav-holder ul.extra-nav {
@@ -209,7 +209,7 @@ body.drawer-open #navbar .region-mobile-navigation.drawer-nav {
 
 #mobile-nav-holder ul.extra-nav a:hover {
     background-color: #EEB211;
-    color: #04009A;
+    color: #191A19;
 }
 .drawer--navbarTopGutter {
     padding-top: 3.75rem
@@ -395,7 +395,7 @@ body {
         padding: 5px;
     }
     #navbar #top-nav a:hover {
-        color: #04009A;
+        color: #191A19;
         background-color: #eeb211;
     }
     #block-albany-searchblockbutton {
@@ -419,7 +419,7 @@ body {
         width: 39px;
     }
     #block-albany-searchblockbutton a:hover, #block-albany-searchblockbutton a:hover::before {
-        color: #04009A;
+        color: #191A19;
         background-color: #eeb211;
     }
     #navbar .search-block-form {
@@ -433,7 +433,7 @@ body {
         width: 100%;
         padding: 0;
         margin: 0 -30px;
-        background-color: #04009A;
+        background-color: #191A19;
         color: white;
         top: 93px;
         left: 30px;
@@ -472,7 +472,7 @@ body {
         padding: 11px;
     }
     #main-nav #main-nav-toggle:hover::after {
-        color: #04009A;
+        color: #191A19;
         background-color: #eeb211;
     }
     #main-nav.is-open #main-nav-toggle::after {
@@ -566,7 +566,7 @@ body {
     #navbar.is-scrolled img#albany-logo-minerva {
         height: 53px;
         padding: 0 5px 1px;
-        background-color: #04009A;
+        background-color: #191A19;
         -webkit-transition-property: width height padding background-color;
         -webkit-transition-duration: 0.5s;
         -webkit-transition-timing-function: ease-in-out;
@@ -603,7 +603,7 @@ body {
         transition-timing-function: ease-in-out;
     }
     #navbar.is-scrolled #block-albany-searchblockbutton a:hover::before {
-        color: #04009A;
+        color: #191A19;
     }
     #navbar.is-scrolled .search-block-form {
         top: 40px;
