@@ -214,7 +214,7 @@ Primary use:    Common.css file used for styling header and
 #landing-page-text-wrapper>p {
     color: #eeb211;
     font-size: 25px !important;
-    line-height: 25PX !important;
+    line-height: 25px !important;
 }
 
 #landing-logo-wrapper {
