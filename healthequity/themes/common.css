@@ -485,7 +485,7 @@ Primary use:    Common.css file used for styling header and
         width: 35%;
     }
     #landing-page-text-wrapper>h1 {
-        font-size: 6vw;
+        font-size: 4vw;
     }
     #landing-page-text-wrapper>p {
         display: none;
