@@ -507,6 +507,9 @@ Primary use:    Common.css file used for styling header and
     .content>#search-box-results {
         margin-bottom: 30px;
     }
+    .panel-title > .btn {
+        font-size: 4vw;
+    }
 }
 
 @media only screen and (min-width: 600px) {
