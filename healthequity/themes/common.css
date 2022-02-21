@@ -508,7 +508,7 @@ Primary use:    Common.css file used for styling header and
         margin-bottom: 30px;
     }
     .panel-title > .btn {
-        font-size: 4vw; 
+        font-size: 4vw !important; 
     }
 }
 
