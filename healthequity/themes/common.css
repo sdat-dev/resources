@@ -511,7 +511,7 @@ Primary use:    Common.css file used for styling header and
         font-size: 4vw !important; 
     }
     .container-fluid {
-        display : block;
+        display : block !important;
     }
 }
 
