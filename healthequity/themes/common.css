@@ -510,6 +510,9 @@ Primary use:    Common.css file used for styling header and
     .panel-title > .btn {
         font-size: 4vw !important; 
     }
+    .container-fluid {
+        padding-left : 18vw;
+    }
 }
 
 @media only screen and (min-width: 600px) {
